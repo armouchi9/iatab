@@ -9,6 +9,7 @@ export const metadata: Metadata = {
     description: "Automatisez vos processus répétitifs. Déployé sur votre infra, opérationnel en 7 jours.",
     type: "website",
     url: "https://iatab.fr",
+    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "IA Tab — Agents IA pour TPE & PME" }],
   },
 };
 

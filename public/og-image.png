@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0E0E1A"/>
+      <stop offset="100%" style="stop-color:#1a0533"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7C3AED"/>
+      <stop offset="100%" style="stop-color:#06B6D4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#7C3AED;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <ellipse cx="600" cy="315" rx="500" ry="250" fill="url(#glow)"/>
+  <text x="600" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="96" font-weight="700" fill="url(#txt)">IA Tab</text>
+  <text x="600" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#9CA3AF">Agents IA sur-mesure pour TPE &amp; PME</text>
+  <text x="600" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#6B7280">Déployés sur votre infra · Opérationnels en 7 jours</text>
+</svg>
